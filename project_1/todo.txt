@@ -5,3 +5,13 @@ MY TO-DO LIST
 4.attend classes on time.
 5.visit aunt.
 6.apply for remote jobs.
+
+TODOCOURSE
+Lesson 1: The basics of the gate and its installation
+The second lesson: the first init and the first commit
+The third lesson: review the history of works
+Fourth lesson: Check the changes made
+The fifth lesson: Getting to know the branches
+Lesson 6: A little more about brunches
+Lesson 7: Getting to know and using GitHub
+Lesson 8: Investigating and solving remote conflicts
