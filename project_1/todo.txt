@@ -15,3 +15,6 @@ The fifth lesson: Getting to know the branches
 Lesson 6: A little more about brunches
 Lesson 7: Getting to know and using GitHub
 Lesson 8: Investigating and solving remote conflicts
+
+
+added end
